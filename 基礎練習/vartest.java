@@ -1,3 +1,5 @@
+#變數練習
+
 package com.hw.java16;
 
 public class vartest {
@@ -5,7 +7,7 @@ public class vartest {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		//�ŧi����ܼ�
+		//宣告整數變數
 		byte var1;
 		byte var2 = 12;
 		byte var3, var4;
