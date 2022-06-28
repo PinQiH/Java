@@ -1,3 +1,5 @@
+#é‹ç®—ç·´ç¿’
+
 package com.hw.java16;
 
 public class optest2 {
@@ -10,7 +12,7 @@ public class optest2 {
 		int var3;
 		
 		var3 = var1 + var2;
-		System.out.printf("var1 + var2 = %d\n", var3); //¥u¯à¥ÎÂù¤Ş¸¹ //println(int)
+		System.out.printf("var1 + var2 = %d\n", var3); //åªèƒ½ç”¨é›™å¼•è™Ÿ //println(int)
 		
 		var3 = var1 - var2;
 		System.out.printf("var1 - var2 = %d\n", var3);
@@ -18,11 +20,11 @@ public class optest2 {
 		var3 = var1 * var2;
 		System.out.printf("var1 * var2 = %d\n", var3);
 		
-		var3 = var1 / var2; //¨ú¾ã¼Æ
+		var3 = var1 / var2; //å–æ•´æ•¸
 		System.out.printf("var1 / var2 = %d\n", var3);
 		
-		var3 = var1 % var2; //¨ú¾l¼Æ
-		System.out.printf("var1 %% var2 = %d\n", var3); //Âù%¤~¯à¥¿±`Åã¥Ü
+		var3 = var1 % var2; //å–æ•´æ•¸
+		System.out.printf("var1 %% var2 = %d\n", var3); //é›™%æ‰èƒ½æ­£å¸¸é¡¯ç¤º
 	}
 
 }
