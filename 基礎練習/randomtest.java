@@ -1,3 +1,5 @@
+#éš¨æ©Ÿäº‚æ•¸ç·´ç¿’
+
 package com.hw.java16;
 
 import java.util.Scanner;
@@ -7,8 +9,8 @@ public class randomtest {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		int number = (int)Math.random(); //ÀH¾÷¨ú0~1ªº¼Æ
-		number *= 1000; //±NÀH¾÷½d³ò©ñ¤j1000
+		int number = (int)Math.random(); //éš¨æ©Ÿå–0~1çš„æ•¸
+		number *= 1000; //å°‡éš¨æ©Ÿç¯„åœæ”¾å¤§1000
 		
 		Scanner scanner = new Scanner(System.in);
 		
