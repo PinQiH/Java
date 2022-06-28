@@ -1,3 +1,5 @@
+#é™£åˆ—ç·´ç¿’
+
 package com.hw.java16;
 
 import java.util.Scanner;
@@ -7,7 +9,7 @@ public class arrtest {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		int[] x = new int[7]; //int[]¬°int°}¦C«¬ºA //¦³7­ÓÀx¦sªÅ¶¡ //¥i§â°}¦C§ï¦¨¤£¦P®æ¦¡ ex. double, string, boolean...
+		int[] x = new int[7]; //int[]ç‚ºinté™£åˆ—å‹æ…‹ //æœ‰7å€‹å„²å­˜ç©ºé–“ //å¯æŠŠé™£åˆ—æ”¹æˆä¸åŒæ ¼å¼ ex. double, string, boolean...
 		
 		for(int i = 0; i <= 6; i++)
 		{
@@ -16,8 +18,8 @@ public class arrtest {
 			x[i] = num;
 		}
 		
-		System.out.println(x[3]); //¥¼«ü©w¼Æ¦rªºªÅ®æ°_©l­È¬°0
-		System.out.println(x.length); //±o°}¦Cªø«×(Àx¦sªÅ¶¡)
+		System.out.println(x[3]); //æœªæŒ‡å®šæ•¸å­—çš„ç©ºæ ¼èµ·å§‹å€¼ç‚º0
+		System.out.println(x.length); //å¾—é™£åˆ—é•·åº¦(å„²å­˜ç©ºé–“)
 	}
 
 }
