@@ -1,3 +1,5 @@
+#é™£åˆ—æ±‚éª°å­æ¯ä¸€é¢å‡ºç¾çš„æ¬¡æ•¸
+
 package com.hw.java16;
 
 import java.util.Scanner;
@@ -11,11 +13,11 @@ public class arrtest3 {
 		int NUM_ROLLS = scanner.nextInt();
 		float average = (float)NUM_ROLLS / 6.0f;
 		
-		int[] dicecounter = new int[6]; //»ë¤l¨C¤@­±¥X²{¦¸¼Æ
+		int[] dicecounter = new int[6]; //éª°å­æ¯ä¸€é¢å‡ºç¾æ¬¡æ•¸
 		
 		for(int i = 0; i < NUM_ROLLS; i++)
 		{
-			int number = (int)(Math.random() * 5.9999999); //·í¦¸»ë¥Xªº¼Æ¦r //Math.random¬°double®æ¦¡ //(int)±j¨î±Ë¥h¤p¼ÆÂI
+			int number = (int)(Math.random() * 5.9999999); //ç•¶æ¬¡éª°å‡ºçš„æ•¸å­— //Math.randomç‚ºdoubleæ ¼å¼ //(int)å¼·åˆ¶æ¨å»å°æ•¸é»
 			
 			dicecounter[number]++;
 		}
