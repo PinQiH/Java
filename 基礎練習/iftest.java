@@ -1,3 +1,5 @@
+#if得分數系痛
+
 package com.hw.java16;
 
 import java.util.Scanner;
@@ -9,7 +11,7 @@ public class iftest {
 
 		Scanner scanner = new Scanner(System.in);
 		int score = scanner.nextInt();
-		System.out.printf("���ƬO%d\n", score);
+		System.out.printf("分數是%d\n", score);
 		
 		if (score >= 60)
 		{
