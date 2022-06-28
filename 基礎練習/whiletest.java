@@ -1,3 +1,5 @@
+#while練習
+
 package com.hw.java16;
 
 import java.util.Scanner;
