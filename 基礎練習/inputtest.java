@@ -1,3 +1,5 @@
+#è¼¸å…¥ç·´ç¿’
+
 package com.hw.java16;
 
 import java.util.Scanner;
@@ -8,10 +10,10 @@ public class hey {
 		// TODO Auto-generated method stub
 
 		Scanner scanner = new Scanner(System.in);
-		String word = scanner.next(); //ªÅ¥Õ¿é¤J§Yµ²§ô
+		String word = scanner.next(); //ç©ºç™½è¼¸å…¥å³çµæŸ
 		System.out.println(word);
 		
-		String wordline = scanner.nextLine(); //ªÅ¥Õ¿é¤J¤£µ²§ô
+		String wordline = scanner.nextLine(); //ç©ºç™½è¼¸å…¥ä¸çµæŸ
 		System.out.println(wordline);
 		
 	}
