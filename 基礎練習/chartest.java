@@ -1,3 +1,5 @@
+#字元練習
+
 package com.hw.java16;
 
 public class chartest {
@@ -11,7 +13,7 @@ public class chartest {
 		char var2 = 'b';
 		System.out.println(var2);
 		
-		char var3 = '\u6587'; //16�i��
+		char var3 = '\u6587'; //16¶i¦ì
 		System.out.println(var3);
 	}
 
