@@ -1,3 +1,5 @@
+#é‹ç®—ç·´ç¿’
+
 package com.hw.java16;
 
 public class optest {
@@ -6,7 +8,7 @@ public class optest {
 		// TODO Auto-generated method stub
 
 		byte var1 = 10, var2 = 3;
-		//byte var3 = var1 + var2;«áªÌ¬°int§Î¦¡
+		//byte var3 = var1 + var2;å¾Œè€…ç‚ºintå½¢å¼
 		
 		var1++;
 		System.out.println(var1);
@@ -23,7 +25,7 @@ public class optest {
 		var1 += 14;
 		System.out.println(var1); 
 		
-		var1++; //¶W¥Xbyte½d³ò(-128~127)
+		var1++; //è¶…å‡ºbyteç¯„åœ(-128~127)
 		System.out.println(var1); 
 	}
 
