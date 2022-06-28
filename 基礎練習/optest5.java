@@ -1,3 +1,5 @@
+#é‹ç®—ç·´ç¿’
+
 package com.hw.java16;
 
 public class optest5 {
@@ -7,7 +9,7 @@ public class optest5 {
 
 		byte var1;
 		short var2 = 129;
-		var1 = (byte)var2; //§â¤j³æ¦ì©ñ¶i¤p³æ¦ì¸Ì¡A©Ò¥H¥¢¥hºë·Ç«×
+		var1 = (byte)var2; //æŠŠå¤§å–®ä½æ”¾é€²å°å–®ä½è£¡ï¼Œæ‰€ä»¥å¤±å»ç²¾æº–åº¦
 		System.out.println(var1);
 	}
 
