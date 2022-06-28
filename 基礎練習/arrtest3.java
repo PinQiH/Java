@@ -17,7 +17,7 @@ public class arrtest3 {
 		
 		for(int i = 0; i < NUM_ROLLS; i++)
 		{
-			int number = (int)(Math.random() * 5.9999999); //當次骰出的數字 //Math.random為double格式 //(int)強制捨去小數點
+			int number = (int)(Math.random() * 5.9999999); //當次骰出的數字(0~5) //Math.random為double格式 //(int)強制捨去小數點
 			
 			dicecounter[number]++;
 		}
