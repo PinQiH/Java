@@ -1,3 +1,5 @@
+#é‹ç®—ç·´ç¿’
+
 package com.hw.java16;
 
 public class optest4 {
@@ -7,7 +9,7 @@ public class optest4 {
 
 		byte var1 = 10;
 		short var2 = 3;
-		//byte, short, char, int ¸g¹L¹Bºâ·|ÅÜ¦¨int®æ¦¡
+		//byte, short, char, int ç¶“éé‹ç®—æœƒè®Šæˆintæ ¼å¼
 		int var3 = var1 + var2;
 		long var4 = var1 + var2;
 		float var5 = var1 + var2;
