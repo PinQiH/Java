@@ -1,3 +1,5 @@
+#floaté‹ç®—ç·´ç¿’
+
 package com.hw.java16;
 
 public class optest3 {
@@ -6,12 +8,12 @@ public class optest3 {
 		// TODO Auto-generated method stub
 
 		float var1 = 10;
-		float var2 = 3.0f; //¦³¤p¼ÆÂI¥[f
+		float var2 = 3.0f; //æœ‰å°æ•¸é»åŠ f
 		float var3;
 		
 		var3 = var1 + var2;
 		System.out.printf("10 + 3.0f = %f\n", var3);
-		System.out.printf("10 + 3.0f = %.2f\n", var3); //¨ú¤p¼ÆÂI«á¨â¦ì
+		System.out.printf("10 + 3.0f = %.2f\n", var3); //å–å°æ•¸é»å¾Œå…©ä½
 		
 		var3 = var1 / var2;
 		System.out.printf("10 / 3.0f = %.2f\n", var3);
