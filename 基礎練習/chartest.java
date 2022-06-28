@@ -13,7 +13,7 @@ public class chartest {
 		char var2 = 'b';
 		System.out.println(var2);
 		
-		char var3 = '\u6587'; //16¶i¦ì
+		char var3 = '\u6587'; //16進位
 		System.out.println(var3);
 	}
 
