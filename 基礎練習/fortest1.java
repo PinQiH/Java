@@ -1,3 +1,5 @@
+#for迴圈練習
+
 package com.hw.java16;
 
 public class fortest1 {
@@ -9,7 +11,7 @@ public class fortest1 {
 		{	
 			for(int i = 2; i < 10; i++)
 			{
-				System.out.print(j+ "*"+ i+ "="+ j*i+ " ");
+				System.out.print(j + "*" + i + "=" + j * i + " ");
 			}
 			System.out.println();
 		}
