@@ -1,3 +1,5 @@
+#é™£åˆ—ç·´ç¿’
+
 package com.hw.java16;
 
 public class arrtest2 {
@@ -5,7 +7,7 @@ public class arrtest2 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		int[] students = new int[] {10, 20, 30, 40, 50, 60, 70, 80, 90, 100}; //µLªk§ó§ï°}¦Cªø«× //¤j¬A¸¹«ü©w¤¸¯À«á¤£»İ³]©w°}¦Cªø«×
+		int[] students = new int[] {10, 20, 30, 40, 50, 60, 70, 80, 90, 100}; //ç„¡æ³•æ›´æ”¹é™£åˆ—é•·åº¦ //å¤§æ‹¬è™ŸæŒ‡å®šå…ƒç´ å¾Œä¸éœ€è¨­å®šé™£åˆ—é•·åº¦
 		
 		System.out.println(students[1]);
 		System.out.println(students.length );
